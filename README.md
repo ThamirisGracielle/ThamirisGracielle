@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou a Thamiris Gracielle</h1>
 
-<!--
-**ThamirisGracielle/ThamirisGracielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudante de Sistemas de Informação | 💻 Focada em Desenvolvimento de Software com Java  
+🚀 Buscando minha primeira oportunidade de estágio na área de tecnologia
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Sobre mim
+
+Sou estudante de **Sistemas de Informação**, em busca da minha primeira oportunidade de estágio na área de **Desenvolvimento de Software**.
+
+Tenho me dedicado a construir uma base sólida em:
+
+- **Java** com foco em **Programação Orientada a Objetos (POO)**
+- **Boas práticas de desenvolvimento** e estruturação de sistemas profissionais
+- **Banco de dados relacionais** com **PostgreSQL**
+
+Sou comprometida com **aprendizado contínuo**, **organização** e **qualidade das entregas**. Gosto de trabalhar em equipe, resolver problemas e aplicar boas práticas em todas as etapas do desenvolvimento — do código aos testes.
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+- Java 17 com Spring Boot  
+- Construção de APIs RESTful  
+- PostgreSQL e SQL (modelagem e consultas)  
+- Validação de dados com Jakarta Bean Validation  
+- Documentação de APIs com Swagger (OpenAPI)  
+- Testes com JUnit, Mockito e Postman  
+- Controle de versão com Git e GitHub  
+- Engenharia de Software: Clean Code, MVC, Design Patterns

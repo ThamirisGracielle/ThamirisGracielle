@@ -1,8 +1,7 @@
-<h1 align="center">👋 Olá! </h1>
 
 <p align="center">
 🎓 Estudante de Sistemas de Informação | 
-💻 Focada em Desenvolvimento de Software com Java, Testes de Software, Banco de Dados e Engenharia de Software 
+💻 Focada em  Engenharia de Software com Desenvolvimento de Software com Java, Testes de Software e Banco de Dados
 🚀 Buscando minha primeira oportunidade de estágio na área de tecnologia
 </p>
 
@@ -10,7 +9,7 @@
 
 ### 💡 Sobre mim
 
-Sou estudante de **Sistemas de Informação**, em busca da minha primeira oportunidade de estágio na área de **Desenvolvimento de Software**.**Testes de Software**, **Banco de Dados**, **Engenharia de Software**
+Sou estudante de **Sistemas de Informação**, em busca da minha primeira oportunidade de estágio na área de **Desenvolvimento de Software**.**Testes de Software**, **Banco de Dados**
 
 Tenho me dedicado a construir uma base sólida em:
 
